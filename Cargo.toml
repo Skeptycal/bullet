@@ -1,0 +1,9 @@
+[package]
+name = "blt"
+version = "0.1.0"
+authors = ["Chris Smith <crsmithdev@gmail.com>"]
+
+[dependencies]
+clap = "2.31.2"
+console = "0.6.1"
+rusqlite = "0.13.0"
