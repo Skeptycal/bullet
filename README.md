@@ -1,1 +1,1 @@
-# bullet
+# Bullet — a bullet journaling CLI
